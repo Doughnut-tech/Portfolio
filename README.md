@@ -2,7 +2,7 @@
  
 ## About me
  
-My name is Igor Zięcina. I am young aspiring tester and student finishing IT technical school in Poland. My main goal is to gain experience and develop my techstack. On this page I will be sharing my knowlegde gained from personal studies and research
+My name is Krzysztof Meler. I am young aspiring tester and student finishing IT technical school in Poland. My main goal is to gain experience and develop my techstack. On this page I will be sharing my knowlegde gained from personal studies and research
  
 ## Tools 
  
@@ -22,14 +22,9 @@ My name is Igor Zięcina. I am young aspiring tester and student finishing IT te
 * Creating test cases 
 * Reporting bugs
 * Creating diagrams and decision tables
-
-## Certificates
- 
-* ISTQB Foundation Level
  
 ## Courses
  
-* Coders Lab Manual Tester
 * Frontend Master beginner path
  
 ## Groups on Facebook
@@ -42,9 +37,4 @@ My name is Igor Zięcina. I am young aspiring tester and student finishing IT te
 * remigiuszbednarczyk.pl
 * GeekON
 * cherry-it.pl
-
-## My Test Case Examples
-
-[PL Test Cases for emp-shop.pl](https://docs.google.com/spreadsheets/d/1Y0_WWLQWVg5yw8lNg-tXP_X4YNA7z6EjRYqUQly4Y8s/edit?usp=sharing)
-
-[ENG Test Cases for emp-online.com](https://docs.google.com/spreadsheets/d/1rP1xquXWlXIqLRisvbdQEwKTBt31G_TccRWdqzGqJnM/edit?usp=sharing)
+![pngfind com-mini-gun-png-5323867](https://user-images.githubusercontent.com/57673656/150642790-fad2423e-03c2-4f06-be5b-3485b286e248.png)
