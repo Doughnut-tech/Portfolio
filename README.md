@@ -37,4 +37,3 @@ My name is Krzysztof Meler. I am young aspiring tester and student finishing IT 
 * remigiuszbednarczyk.pl
 * GeekON
 * cherry-it.pl
-![pngfind com-mini-gun-png-5323867](https://user-images.githubusercontent.com/57673656/150642790-fad2423e-03c2-4f06-be5b-3485b286e248.png)
