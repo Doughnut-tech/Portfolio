@@ -2,7 +2,7 @@
  
 ## About me
  
-My name is Krzysztof Meler. I am young aspiring tester and student finishing IT technical school in Poland. My main goal is to gain experience and develop my techstack. On this page I will be sharing my knowlegde gained from personal studies and research
+My name is Krzysztof Meler. I am young aspiring tester and graduate IT technical school in Poland. My main goal is to gain experience and develop my techstack. On this page I will be sharing my knowlegde gained from personal studies and research
  
 ## Tools 
  
