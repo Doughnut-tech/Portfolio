@@ -12,6 +12,9 @@ My name is Krzysztof Meler. I am young aspiring tester and student finishing IT 
 * Git 
 * Gtihub
 * Miro  
+* WMS
+* Pixis
+* Backoffice
 
 ##  Tech skills
 
