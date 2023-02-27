@@ -45,6 +45,4 @@ My name is Krzysztof Meler. I am young aspiring tester and graduate IT technical
 
 ## My Test Case Examples
 
-[PL Test Cases for eZIKO apteka](https://docs.google.com/spreadsheets/d/16Wy5cFgZu1iFpcOqpk89DwHcyQE16vPTeE8WYrivS9Y/edit#gid=0)
-
-[ENG Test Cases for eZIKO apteka](https://docs.google.com/spreadsheets/d/1vYufT6wvbZPd5n4V8VjCIn0dfrEDeoPuTmiFf0pA2bM/edit#gid=0)
+[Test Cases for eZIKO apteka](https://docs.google.com/spreadsheets/d/16Wy5cFgZu1iFpcOqpk89DwHcyQE16vPTeE8WYrivS9Y/edit#gid=0)
