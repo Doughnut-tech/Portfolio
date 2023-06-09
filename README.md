@@ -35,8 +35,8 @@ My name is Krzysztof Meler. I am young aspiring tester and graduate IT technical
  
 ## Groups on Facebook
 
-* Tester oprogramowania - wsparcie na starcie
-* Testowanie oprogramowania
+* Tester oprogramowania - wsparcie na starcie.
+* Testowanie oprogramowania.
 
 ## Recommended blogs
 
